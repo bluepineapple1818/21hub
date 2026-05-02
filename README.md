@@ -7,7 +7,7 @@ loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.
 ```
 
  - Currently 119 commands
- - Open Source
+ - Adding games by requests # discord: krnl123lol
 
 ## Developers
 
