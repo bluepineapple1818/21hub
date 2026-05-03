@@ -6,7 +6,7 @@ The 21 hub for roblox.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/bluepineapple1818/21hub/refs/heads/main/source"))()
 ```
 
- - Currently 119 commands
+ - Currently 228 commands
  - Adding games by requests
 
 ## Developers
